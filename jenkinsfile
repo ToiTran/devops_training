@@ -1,0 +1,49 @@
+def project_name = "java-exercise-maven"
+pipeline {
+    agent any
+    triggers {
+        cron('H */4 * * *')
+    }
+    environment {
+        git_url = 'https://github.com/ToiTran/devops_training'
+        git_branch = 'main'
+    }
+    stages {
+        stage ('clone repo') {
+            steps {
+                git ( url: git_url, credentialsId: '2d4750bd-8794-4bef-a615-7f4278f95f72', branch: git_branch )
+            }
+        }
+        
+        stage ('compile project') {
+            steps{
+                dir ("${project_name}") {
+                    sh 'mvn package'
+                    sh 'cp target/*.jar ../console.jar'
+                }
+            }
+        }
+        
+        stage ('build image') {
+            steps{
+                sh 'docker build -t thtoi/java_application_demo .'
+            }
+        }
+        
+        stage ('push image to docker hub') {
+            environment {
+		           DOCKERHUB_CREDENTIALS=credentials('docker_hub.id')
+	        }
+            steps {
+                sh 'echo $DOCKERHUB_CREDENTIALS_PSW | docker login -u $DOCKERHUB_CREDENTIALS_USR --password-stdin'
+                sh 'docker push thtoi/java_application_demo '
+            }
+        }
+    }
+   post {
+        always {
+            sh 'docker image rm thtoi/java_application_demo'
+            cleanWs()
+        }
+    }
+}

@@ -19,7 +19,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>devops.training.maven</mainClass>
+              <mainClass>devops.training.maven.App</mainClass>
             </manifest>
           </archive>
         </configuration>

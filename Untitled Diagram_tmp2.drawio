@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T15:40:17.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EW2QzqhxleJwcdoP9gpu" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T15:46:33.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xz5yBWPQW63M5Kf0q3mE" version="20.2.3" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
-    <mxGraphModel dx="1503" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1753" dy="1743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="418" y="660" width="432" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---67" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontColor=none;strokeColor=none;strokeWidth=4;fillColor=#FFFFFF;noLabel=1;" vertex="1" parent="1">
-          <mxGeometry x="497" y="-30" width="80" height="80" as="geometry" />
+          <mxGeometry x="514" y="-30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;fillColor=#B5E3Fe;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="68" y="460" width="30" height="30" as="geometry" />
@@ -106,10 +106,10 @@
           <mxGeometry x="360.38" y="525" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---66" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;rounded=0;shadow=1;glass=0;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;strokeColor=#B3B3B3;strokeWidth=4;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="503.39" y="-18" width="65.22" height="60" as="geometry" />
+          <mxGeometry x="521.39" y="-18" width="65.22" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5-vusKYfpJIrkrFz_v---71" value="Gitlab Runner(Linux VM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="437" y="42" width="214" height="41" as="geometry" />
+        <mxCell id="5-vusKYfpJIrkrFz_v---71" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Gitlab Runner(Linux VM)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="446" y="47" width="214" height="55" as="geometry" />
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=none;endFill=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -259,6 +259,20 @@
             <Array as="points">
               <mxPoint x="49" y="70" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---176" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=20;fontColor=#000000;strokeColor=#FF0000;strokeWidth=6;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---177" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=20;fontColor=#000000;strokeColor=#FF0000;strokeWidth=4;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5-vusKYfpJIrkrFz_v---176" target="5-vusKYfpJIrkrFz_v---34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="657" as="sourcePoint" />
+            <mxPoint x="310" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---178" value="Commit" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=20;fontColor=#FF0000;strokeColor=#FF0000;strokeWidth=6;fillColor=none;fontStyle=1" connectable="0" vertex="1" parent="5-vusKYfpJIrkrFz_v---177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="33" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

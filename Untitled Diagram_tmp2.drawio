@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T15:28:47.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Iz3a9efvH8ix13SVCeh_" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T15:40:17.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EW2QzqhxleJwcdoP9gpu" version="20.2.3" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
-    <mxGraphModel dx="1315" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,9 +67,8 @@
             <mxPoint x="48" y="411" as="sourcePoint" />
             <mxPoint x="181" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="90" y="460" />
-              <mxPoint x="90" y="150" />
-              <mxPoint x="181" y="150" />
+              <mxPoint x="130" y="460" />
+              <mxPoint x="130" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,14 +84,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-vusKYfpJIrkrFz_v---32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-1/512/git-commit-sharp-128.png;strokeWidth=6;" vertex="1" parent="1">
+        <mxCell id="5-vusKYfpJIrkrFz_v---32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-1/512/git-commit-sharp-128.png;strokeWidth=6;imageBorder=#000000;imageBackground=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="267" y="121.5" width="41" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="5-vusKYfpJIrkrFz_v---33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-1/512/git-commit-sharp-128.png;strokeWidth=6;" vertex="1" parent="1">
+        <mxCell id="5-vusKYfpJIrkrFz_v---33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-1/512/git-commit-sharp-128.png;strokeWidth=6;imageBorder=default;imageBackground=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="268" y="330.5" width="41" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="5-vusKYfpJIrkrFz_v---34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-1/512/git-commit-sharp-128.png;strokeWidth=6;" vertex="1" parent="1">
-          <mxGeometry x="269.37" y="524.5" width="41" height="41" as="geometry" />
+        <mxCell id="5-vusKYfpJIrkrFz_v---34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-1/512/git-commit-sharp-128.png;strokeWidth=6;imageBorder=default;imageBackground=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="270.37" y="524.5" width="41" height="41" as="geometry" />
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/git-commit-thin-128.png;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="509" y="78.62" width="126.75" height="126.75" as="geometry" />
@@ -122,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---101" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="216" y="540" width="70" height="10" as="geometry" />
+          <mxGeometry x="216" y="540" width="74" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Circle-128.png;rounded=0;shadow=0;glass=0;labelBorderColor=none;sketch=0;fontColor=none;strokeColor=#828282;strokeWidth=4;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="348.56999999999994" y="597" width="61.62" height="61.62" as="geometry" />
@@ -189,7 +188,7 @@
           <mxGeometry x="608" y="268.97" width="173" height="23.25" as="geometry" />
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---141" value="backend" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="151.19" y="573" width="97.62" height="53" as="geometry" />
+          <mxGeometry x="148.19" y="560" width="97.62" height="53" as="geometry" />
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---142" value="clone code" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="428" y="605.62" width="128.81" height="53" as="geometry" />
@@ -235,6 +234,32 @@
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---166" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=16;fontColor=none;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="297.37" y="540" width="32.63" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---167" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=16;fontColor=none;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="438.46" y="539.99" width="411.54" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---169" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=16;fontColor=none;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="500.46" y="345.99" width="349.54" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;strokeColor=#4D4D4D;strokeWidth=4;dashed=1;" edge="1" parent="1" source="5-vusKYfpJIrkrFz_v---172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="49.470000000000255" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---172" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;Register&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=20;fontColor=#ffffff;strokeColor=#001DBC;strokeWidth=3;fillColor=none;direction=south;verticalAlign=top;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="28.939999999999998" y="145.75" width="41.06" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---170" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=16;fontColor=none;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="619.21" y="136.5" width="220.79" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---175" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;dashed=1;fontSize=20;fontColor=#000000;strokeColor=#4D4D4D;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5-vusKYfpJIrkrFz_v---172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="80" as="sourcePoint" />
+            <mxPoint x="130" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="49" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

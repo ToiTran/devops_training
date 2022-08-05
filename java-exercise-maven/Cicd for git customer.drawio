@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T17:16:28.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nIJVrJModPqBJDvrwbvw" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T17:21:18.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QHdm_fyNU8A_9ez2uusd" version="20.2.3" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
-    <mxGraphModel dx="1169" dy="596" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="877" dy="447" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,8 +257,8 @@
         <mxCell id="5-vusKYfpJIrkrFz_v---197" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=6;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;rounded=0;glass=0;labelBorderColor=none;fontFamily=Garamond;fontSize=25;fontColor=#4C0099;fillColor=none;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="89" y="494" width="14" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YNiDKU0idmeV1tOSZLgt-1" value="Git Customer&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontStyle=1;fontFamily=Courier New;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="118" y="63" width="147.43" height="37" as="geometry" />
+        <mxCell id="YNiDKU0idmeV1tOSZLgt-1" value="Git Customer&lt;br&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontStyle=1;fontFamily=Courier New;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="118" y="56" width="152" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YNiDKU0idmeV1tOSZLgt-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="307.82" y="558" width="41" height="41" as="geometry" />

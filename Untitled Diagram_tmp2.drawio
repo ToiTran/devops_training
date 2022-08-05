@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T16:14:28.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="N12fAa4zR-EIxZdsPnAl" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T16:29:05.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Oa_2k_KTfHogeOuVTzBn" version="20.2.3" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
-    <mxGraphModel dx="1315" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1052" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,6 +295,9 @@
         </mxCell>
         <mxCell id="5-vusKYfpJIrkrFz_v---197" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=6;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;rounded=0;glass=0;labelBorderColor=none;sketch=0;fontFamily=Garamond;fontSize=25;fontColor=#4C0099;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="89" y="494" width="14" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5-vusKYfpJIrkrFz_v---199" value="GitLab-TMA" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="116.57" y="55" width="147.43" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
